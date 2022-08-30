@@ -1,5 +1,4 @@
-![点击查看源网页](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.zhimg.com%2Fv2-0e96436a999ac26218fc54344799c859_1200x500.jpg&refer=http%3A%2F%2Fpic1.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640617321&t=806572e49f8f6deafd8486b19af6d192)
-
+![image](https://user-images.githubusercontent.com/30451380/187455740-3411c9ac-07ba-4eea-8f3e-bac6651a9b79.png)
 **建议：**对Java开发还不是很熟悉的同学，最好先花费半个月到一个月时间大量地去编写小项目，不推荐一口气学完，后面的内容相比前面的内容几乎是降维打击，一口气学完很容易忘记之前所学的基础知识，尤其是JavaSE阶段的内容。
 
 # Spring框架技术
