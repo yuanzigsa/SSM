@@ -3,5 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean name="student" class="com.yuanzi.Bean.Student" scope="prototype"/>
+    <bean name="student" class="com.yuanzi.Bean.Student" init-method="init" destroy-method="destroy" depends-on="card"/>
+    <bean name="card" class="com.yuanzi.Bean.Card"/>
 </beans>
